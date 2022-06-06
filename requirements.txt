@@ -170,7 +170,7 @@ Pympler==0.4.3
 PyMySQL==1.0.2
 pyodbc==4.0.31
 PyOpenGL==3.1.0
-PyOpenGL-accelerate==3.1.6
+PyOpenGL-accelerate==3.1.0
 pyOpenSSL==22.0.0
 pyparsing==2.4.7
 pyperclip==1.8.2
