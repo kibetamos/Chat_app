@@ -1,4 +1,4 @@
-# Python Django Chat App
+# Chat Application 
  This is a chat application built using pythin django framwork
 # Steps of setting up the project
 1. clone the repository via the link </br>
