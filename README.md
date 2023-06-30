@@ -13,10 +13,3 @@ python manage.py runserver
 # Access the project
 Navigate to the url 127.0.0.1:8000 o your local browser 
 
-
-# Access the project
-Navigate to the url 127.0.0.1:8000 o your local browser 
-
-
-# Access the project
-Navigate to the url 127.0.0.1:8000 o your local browser 
