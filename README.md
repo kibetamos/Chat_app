@@ -3,6 +3,7 @@
  
  
 # Steps of setting up the project
+
 1. clone the repository via the link </br>
 2. Install requirements.txt using pip install requirements.txt 
 
