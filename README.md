@@ -1,4 +1,4 @@
-# Pyhton Chat Application 
+# Python Chat Application 
  This is a chat application built using pythin django framwork
  
  
