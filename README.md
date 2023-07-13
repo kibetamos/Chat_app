@@ -21,5 +21,5 @@ python manage.py runserver
 
 # Access the project
 
-Navigate to the url https://127.0.0.1:8000 o your local browser 
+Navigate to the url  https://127.0.0.1:8000  on your local browser 
 
