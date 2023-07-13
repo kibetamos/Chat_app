@@ -4,7 +4,7 @@
  
 # Steps to set up the project
 
-1. clone the repository via the link </br>   https://github.com/kibetamos/Chat_app/tree/main
+1. Clone the repository via the link </br>   https://github.com/kibetamos/Chat_app/tree/main
 2. Install requirements.txt using pip install requirements.txt 
 
 # To run the project
