@@ -3,7 +3,6 @@
  This is a chat application built using pythin django framwork
  
 # Steps to set up the project
-
 1. Clone the repository via the link </br>   https://github.com/kibetamos/Chat_app/tree/main
 
 
