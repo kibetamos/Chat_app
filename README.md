@@ -1,4 +1,5 @@
    # Chat Application 
+   
  This is a chat application built using pythin django framwork
  
 # Steps to set up the project
