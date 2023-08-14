@@ -10,7 +10,6 @@
 2. Install requirements.txt using pip install requirements.txt  using 
 
    '''
-
       Pip install -r requirements.txt
 
    '''
