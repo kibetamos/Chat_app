@@ -10,7 +10,7 @@ Follow these steps to set up the project on your local machine:
 1. Clone the repository by clicking [here](https://github.com/kibetamos/Chat_app/tree/main) or using the following link:
 
 2. Install the required dependencies from `requirements.txt` using the following command in your terminal:
-
+3.
        pip install -r requirements.txt
 
 
