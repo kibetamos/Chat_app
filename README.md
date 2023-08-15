@@ -1,22 +1,9 @@
-   # Chat Application 
-   
- This is a chat application built using pythin django framwork
- 
-# Steps to set up the project
-1. Clone the repository via the link </br>   https://github.com/kibetamos/Chat_app/tree/main
+# Chat Application
 
+Welcome to the Chat Application, a web-based chat platform built using the Python Django framework.
 
-2. Install requirements.txt using pip install requirements.txt  using 
+## Setup Instructions
 
-   '''
-      Pip install -r requirements.txt
+Follow these steps to set up the project on your local machine:
 
-   '''
-# To run the project
-python manage.py runserver
-
-# Access the project
-
-
-Navigate to the url  https://127.0.0.1:8000  on your local browser 
-
+1. Clone the repository by clicking [here](https://github.com/kibetamos/Chat_app/tree/main) or using the following link:
