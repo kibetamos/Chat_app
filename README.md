@@ -27,3 +27,5 @@ https://127.0.0.1:8000
 
 
 Feel free to explore and enjoy the chat application!
+
+Feel free to copy and paste this markdown into your GitHub README file. Make sure to adjust formatting and links as neede
