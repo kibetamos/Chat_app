@@ -16,7 +16,6 @@ Follow these steps to set up the project on your local machine:
    
        pip install -r requirements.txt
 
-
 ## Running the Project
 
 
