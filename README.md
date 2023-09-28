@@ -23,8 +23,6 @@ To run the project, execute the following command in your terminal:
 
      python manage.py runserver
 
-
-
 ## Accessing the Project
 
 
