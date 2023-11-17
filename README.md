@@ -1,4 +1,4 @@
-# Chat Application
+## Chat Application
 
 Welcome to the Chat Application, a web-based chat platform built using the Python Django framework.
 
