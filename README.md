@@ -4,6 +4,7 @@ Welcome to the Chat Application, a web-based chat platform built using the Pytho
 
 ### Setup Instructions
 
+
 Follow these steps to set up the project on your local machine:
 
 
