@@ -3,6 +3,7 @@
 Welcome to the Chat Application, a web-based chat platform built using the Python Django framework.
 
 
+
 ### Setup Instructions
 
 Follow these steps to set up the project on your local machine:
