@@ -25,3 +25,4 @@ Once the project is running, you can access it in your web browser by navigating
              https://127.0.0.1:8000
 
 Feel free to explore and enjoy the chat application!
+
