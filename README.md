@@ -14,7 +14,6 @@ Follow these steps to set up the project on your local machine:
 
 ## Running the Project
 
-
 To run the project, execute the following command in your terminal:
 
      python manage.py runserver
