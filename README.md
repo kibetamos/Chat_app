@@ -11,7 +11,6 @@ Follow these steps to set up the project on your local machine:
 2. Install the required dependencies from `requirements.txt` using the following command in your terminal:
    
        pip install -r requirements.txt
-   
 
 ## Running the Project
 
