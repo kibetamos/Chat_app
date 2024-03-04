@@ -27,3 +27,4 @@ Once the project is running, you can access it in your web browser by navigating
 
 Feel free to explore and enjoy the Chat_app application!
 
+
