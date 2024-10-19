@@ -2,6 +2,23 @@
 
 Welcome to the Chat Application, a web-based chat platform built using the Python Django framework.
 
+## Technologies Used
+
+- **Python**: Backend logic and server-side processing.
+- **Django**: Framework for building the web application.
+- **Django Channels**: Enables WebSocket support for real-time messaging.
+- **SQLite**: Default database for development.
+- **HTML/CSS/JavaScript**: Frontend components for user interaction.
+
+## Workflows & CI/CD
+
+This project employs **GitHub Actions** to automate workflows, enhancing development efficiency and ensuring code quality. The CI/CD pipeline is configured to perform the following tasks:
+
+- **Automatic Testing**: Tests are triggered automatically whenever code is pushed to the repository, ensuring that new changes do not break existing functionality.
+- **Linting & Code Quality**: The pipeline includes steps to check for coding standards and style guides, ensuring a clean and maintainable codebase.
+- **Deployment**: The CI/CD pipeline can be extended to automatically deploy the application to a staging or production environment once the tests pass.
+
+
 ### Setup Instructions
 
 Follow these steps to set up the project on your local machine:
