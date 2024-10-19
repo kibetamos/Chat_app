@@ -18,6 +18,10 @@ This project employs **GitHub Actions** to automate workflows, enhancing develop
 - **Linting & Code Quality**: The pipeline includes steps to check for coding standards and style guides, ensuring a clean and maintainable codebase.
 - **Deployment**: The CI/CD pipeline can be extended to automatically deploy the application to a staging or production environment once the tests pass.
 
+### GitHub Actions Workflow
+
+The GitHub Actions workflow is defined in the `.github/workflows/ci.yml` file.
+
 
 ### Setup Instructions
 
