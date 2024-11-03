@@ -1,10 +1,8 @@
 ## Chat Application
 
-
 Welcome to the Chat Application, a web-based chat platform built using the Python Django framework.
 
 ## Technologies Used
-
 
 - **Python**: Backend logic and server-side processing.
 - **Django**: Framework for building the web application.
