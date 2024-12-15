@@ -4,8 +4,6 @@ Welcome to the Chat Application, a web-based chat platform built using the Pytho
 
 ## Technologies Used
 
-
-
 - **Python**: Backend logic and server-side processing.
 - **Django**: Framework for building the web application.
 - **Django Channels**: Enables WebSocket support for real-time messaging.
