@@ -22,7 +22,6 @@ This project employs **GitHub Actions** to automate workflows, enhancing develop
 
 The GitHub Actions workflow is defined in the `.github/workflows/github-actions-demo.yml` file.
 
-
 ### Setup Instructions
 
 Follow these steps to set up the project on your local machine:
