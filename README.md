@@ -43,7 +43,6 @@ To run the project, execute the following command in your terminal:
 
 ## Accessing the Project
 
-
 Once the project is running, you can access it in your web browser by navigating to:
 
       https://127.0.0.1:8000
