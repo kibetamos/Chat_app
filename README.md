@@ -12,8 +12,6 @@ Welcome to the Chat Application, a web-based chat platform built using the Pytho
 
 ## Workflows & CI/CD
 
-
-
 This project employs **GitHub Actions** to automate workflows, enhancing development efficiency and ensuring code quality. The CI/CD pipeline is configured to perform the following tasks:
 
 - **Automatic Testing**: Tests are triggered automatically whenever code is pushed to the repository, ensuring that new changes do not break existing functionality.
